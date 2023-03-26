@@ -20,4 +20,11 @@ Then, Look For This Message and click the link
 ![Message](https://cdn.discordapp.com/attachments/1089202719950114838/1089595920821268600/image.png)
 
 Last, Buy The Product
+
 ![Buy Product](https://cdn.discordapp.com/attachments/1089202719950114838/1089596271246970931/image.png)
+
+After You Buy I Will Send You A Key And The Grabber
+
+![KEY](https://cdn.discordapp.com/attachments/1075941480444727349/1089597476006285312/image.png)
+
+## How to Install
