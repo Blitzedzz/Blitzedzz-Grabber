@@ -1,2 +1,2 @@
 # Blitzedzz-Grabber
-## The Next Best Grabber
+The Next Best Token grabber
