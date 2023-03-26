@@ -6,10 +6,9 @@ Welcome To The Blitzedzz Grabber Repo The 3rd Grabber With A GUI this github rep
 [Discord](https://discord.gg/YH76nXCQA3)
 
 
-![Click on Discord](https://cdn.discordapp.com/attachments/1086023983561986098/1089567122218299453/image.png)
 First, Click On Discord
 
-
+![Click on Discord](https://cdn.discordapp.com/attachments/1086023983561986098/1089567122218299453/image.png)
 
 
 
