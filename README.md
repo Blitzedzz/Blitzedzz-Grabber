@@ -15,5 +15,6 @@ First, Click On Discord
 
 
 Next, Goto The Paid Tools Channel
+
 ![Paid Tools](https://cdn.discordapp.com/attachments/1086466169868910673/1089567946952671473/image.png)
 
