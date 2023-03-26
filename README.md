@@ -15,7 +15,9 @@ Next, Goto The Paid Tools Channel
 
 ![Paid Tools](https://cdn.discordapp.com/attachments/1086466169868910673/1089567946952671473/image.png)
 
-Then, Look For This Message
+Then, Look For This Message and click the link
 
-![Message](https://cdn.discordapp.com/attachments/1089202719950114838/1089595479320436767/image.png)
+![Message](https://cdn.discordapp.com/attachments/1089202719950114838/1089595920821268600/image.png)
 
+Last, Buy The Product
+![Buy Product](https://cdn.discordapp.com/attachments/1089202719950114838/1089596271246970931/image.png)
