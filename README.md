@@ -40,3 +40,8 @@ Next, Open Command Prompt And Go To The Path Of Were You Extracted The File
 Then, Then Run **python builder.pyw**
 
 ![command](https://cdn.discordapp.com/attachments/1086763356217692271/1089710592165691462/image.png)
+
+Last, Enter The Key
+![getkey](https://cdn.discordapp.com/attachments/1087038972913516774/1089715891115131003/image.png)
+
+## How To Use
