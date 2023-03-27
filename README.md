@@ -28,3 +28,11 @@ After You Buy I Will Send You A Key And The Grabber
 ![KEY](https://cdn.discordapp.com/attachments/1075941480444727349/1089597476006285312/image.png)
 
 ## How to Install
+
+First, Download & Extract
+
+![Extract](https://cdn.discordapp.com/attachments/1086763356217692271/1089711102776057996/image.png)
+
+Next, Open Command Prompt And Go To The Path Of Were You Extracted The File
+
+![cd](https://cdn.discordapp.com/attachments/1086763356217692271/1089713416819707965/image.png)
