@@ -46,4 +46,6 @@ Last, Enter The Key
 
 ## How To Use
 
-First, Make Your Webhook
+First, Make Your Webhook And Copy The Webhook URL
+
+![image](https://user-images.githubusercontent.com/98287650/228319835-9c75a176-89dc-4dc2-a821-3ba807d81bad.png)
